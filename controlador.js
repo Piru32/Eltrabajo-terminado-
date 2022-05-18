@@ -300,7 +300,7 @@ let producto39={
     nombre:"Correa 4",
     precio: 25000,
     estado:true,
-    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-del-guetto.appspot.com/o/traje_ba%C3%B1o-1.jpg?alt=media&token=570573df-fcb1-41cf-901a-f6f47d0939e8",
+    foto:"https://firebasestorage.googleapis.com/v0/b/la-tiendita-f8214.appspot.com/o/correa%204.jpg?alt=media&token=38a83510-1925-4fcc-a89e-fb60de329df6",
     popularidad: 5,
     pais: "Colombia" 
 }
